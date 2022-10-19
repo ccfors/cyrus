@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Cyrus Shi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 积微言细
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Hogwarts School of Witchcraft and Wizardry
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 与其互为人间，不如自成宇宙。
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

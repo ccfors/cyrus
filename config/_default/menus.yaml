@@ -7,13 +7,16 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Research
+  - name: o.o
+    url: '/project'
+    weight: 20
+  - name: Being
     url: '/project'
     weight: 30
-  - name: Events
+  - name: Knowing
     url: '/event'
     weight: 40
-  - name: Publications
+  - name: Doing
     url: '/publication'
     weight: 50
   - name: Contact
