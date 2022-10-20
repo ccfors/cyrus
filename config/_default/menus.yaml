@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: o.o
+  - name: ⊙rigin
     url: '/project'
     weight: 20
   - name: Being
@@ -19,7 +19,7 @@ main:
   - name: Doing
     url: '/publication'
     weight: 50
-  - name: Contact
+  - name: About
     url: '/contact'
     weight: 60
 
