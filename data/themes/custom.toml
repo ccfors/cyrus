@@ -15,3 +15,12 @@ name = "Custom"
   background = "#fff"
   home_section_odd = "#fff"
   home_section_even = "#fff"
+
+[dark]
+  primary = "#bbdefb"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
+  background = "rgb(26, 32, 44)"
+  home_section_odd = "rgb(26, 32, 44)"
+  home_section_even = "rgb(26, 32, 44)"
+  menu_primary = "rgb(26, 32, 44)"

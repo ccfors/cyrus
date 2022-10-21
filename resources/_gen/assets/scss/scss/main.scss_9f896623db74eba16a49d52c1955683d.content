@@ -8074,7 +8074,7 @@ a.summary-link {
   background: #fff; }
 
 .dark .modal-content {
-  background: #23252f; }
+  background: #1a202c; }
 
 .modal-title {
   margin: 0;
@@ -8153,7 +8153,7 @@ a.summary-link {
     color: #fdfbe4 !important; }
 
 .dark .navbar {
-  background: #282a36;
+  background: #1a202c;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(255, 255, 255, 0.11); }
   .dark .navbar .navbar-nav .nav-link {
     color: rgba(255, 255, 255, 0.85); }
@@ -8245,7 +8245,7 @@ a.summary-link {
     background-color: #000;
     text-align: center !important; }
   .dark .navbar-collapse {
-    background-color: #282a36; }
+    background-color: #1a202c; }
   #navbar-main .main-menu-item .nav-item {
     padding: 10px 15px !important; }
   #navbar-main .main-menu-item .nav-item .nav-link {
@@ -8268,7 +8268,7 @@ ul.nav-icons li.nav-item a.nav-link {
   padding: 0; }
 
 .dark .dropdown-menu {
-  background-color: #282a36 !important;
+  background-color: #1a202c !important;
   color: white !important; }
 
 .dropdown-item {
@@ -8276,7 +8276,7 @@ ul.nav-icons li.nav-item a.nav-link {
   color: #fff !important; }
 
 .dark .dropdown-item {
-  background-color: #282a36 !important;
+  background-color: #1a202c !important;
   color: white !important; }
 
 /*************************************************
@@ -8737,7 +8737,7 @@ html[dir='rtl'] body {
   z-index: -99; }
 
 .dark .search-modal {
-  background-color: #23252f; }
+  background-color: #1a202c; }
 
 .search-modal > .container {
   padding-top: 70px;
@@ -8759,7 +8759,7 @@ html[dir='rtl'] body {
     .search-header {
       padding-top: 0; } }
 .dark .search-header {
-  background-color: #23252f; }
+  background-color: #1a202c; }
 
 .search-header h1 {
   margin: 0;
@@ -8811,7 +8811,7 @@ html[dir='rtl'] body {
   line-height: 1; }
 
 .dark #search-query {
-  background-color: #23252f; }
+  background-color: #1a202c; }
 
 #search-box #search-query {
   border: 1px solid #dedede;
@@ -8892,7 +8892,7 @@ html[dir='rtl'] body {
   color: #f8f8f2; }
 
 .dark .ais-search-box--input {
-  background-color: #23252f; }
+  background-color: #1a202c; }
 
 .searching {
   overflow: hidden; }
@@ -9009,10 +9009,10 @@ html[dir='rtl'] body {
   background: #fff; }
 
 .dark .home-section {
-  background: #272935; }
+  background: #1a202c; }
 
 .dark .home-section:nth-of-type(even) {
-  background: #23252f; }
+  background: #1a202c; }
 
 @media screen and (max-width: 768px) {
   .home-section {
@@ -9465,7 +9465,7 @@ body.dark,
 .dark .modal button.close,
 .dark input {
   color: #f8f8f2;
-  background: #23252f; }
+  background: #1a202c; }
 
 .dark .form-control {
   color: #f8f8f2;
@@ -9565,7 +9565,7 @@ body.dark,
 
 .dark .docs-sidebar .nav > li:not(.active) > a {
   color: #f8f8f2;
-  background: #23252f; }
+  background: #1a202c; }
 
 div.mermaid {
   width: 100%;

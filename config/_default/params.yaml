@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: custom
-  theme_night:
+  theme_night: custom
   font: rose
   font_size: L
 
@@ -84,11 +84,11 @@ features:
     commento:
       url: ''
   search:
-    provider: ''
+    provider: algolia
     algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
+      app_id: THSQTU3H33
+      api_key: 7bb98ee1b131067498cfae882694d53d
+      index_name: ccfors
       show_logo: false
   map:
     provider: ''
