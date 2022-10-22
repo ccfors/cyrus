@@ -1,5 +1,6 @@
 ---
 title: Writing technical content in Markdown
+type: book
 date: 2019-07-12
 math: true
 highlight: true
