@@ -1,5 +1,6 @@
 ---
 title: post
+type: book
 cms_exclude: true
 
 # View.

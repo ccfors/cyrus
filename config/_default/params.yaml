@@ -84,10 +84,10 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: algolia
     algolia:
-      app_id: ''
-      api_key: ''
+      app_id: 'GL6L81XVBY'
+      api_key: 'c2fb255b0b87a3399769229d88c9a5be'
       index_name: ''
       show_logo: false
   map:
