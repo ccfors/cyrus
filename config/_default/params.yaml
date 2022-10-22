@@ -86,10 +86,10 @@ features:
   search:
     provider: algolia
     algolia:
-      app_id: THSQTU3H33
-      api_key: 7bb98ee1b131067498cfae882694d53d
-      index_name: ccfors
-      show_logo: false
+      app_id: 'THSQTU3H33'
+      api_key: '58dc711162c336aa7ef377b3db633f0d'
+      index_name: 'ccfors'
+      show_logo: true
   map:
     provider: ''
     api_key: ''

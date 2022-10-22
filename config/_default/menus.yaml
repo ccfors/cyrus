@@ -8,19 +8,19 @@ main:
     url: '/'
     weight: 10
   - name: ⊙rigin
-    url: '/post'
+    url: '/origin'
     weight: 20
   - name: Being
-    url: '/project'
+    url: '/being'
     weight: 30
   - name: Knowing
-    url: '/event'
+    url: '/knowing'
     weight: 40
   - name: Doing
-    url: '/publication'
+    url: '/doing'
     weight: 50
   - name: About
-    url: '/contact'
+    url: '/about'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

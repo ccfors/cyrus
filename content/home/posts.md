@@ -7,18 +7,23 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 30
 
-title: Recent News
+title: Posts
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  # page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+  count: 5
   # Filter on criteria
   filters:
+    folders:
+      - origin
+      - being
+      - knowing
+      - doing
     author: ""
     category: ""
     tag: ""
