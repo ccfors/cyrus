@@ -87,9 +87,9 @@ features:
     provider: algolia
     algolia:
       app_id: 'GL6L81XVBY'
-      api_key: 'c2fb255b0b87a3399769229d88c9a5be'
-      index_name: ''
-      show_logo: false
+      api_key: '59089535432d9cdeb0c04ba8df4b9f82'
+      index_name: 'netlify_3976ff77-b0e1-47d1-889b-f25da5d16c01_main_all'
+      show_logo: true
   map:
     provider: ''
     api_key: ''
