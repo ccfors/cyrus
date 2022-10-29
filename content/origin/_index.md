@@ -1,6 +1,6 @@
 ---
-title: post
-type: book
+title: "⊙rigin"
+type: post
 cms_exclude: true
 
 # View.

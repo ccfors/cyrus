@@ -42,3 +42,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<你好吗？我很好.>

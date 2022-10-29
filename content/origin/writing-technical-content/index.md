@@ -1,7 +1,7 @@
 ---
 title: Writing technical content in Markdown
 linktitle: 'aa'
-type: book
+type: post
 date: 2019-07-12
 math: true
 highlight: true
