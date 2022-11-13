@@ -77,9 +77,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: disqus
+    provider: waline
     disqus:
-      shortname: 'ccfors'
+      shortname: ''
       show_count: true
     commento:
       url: ''
