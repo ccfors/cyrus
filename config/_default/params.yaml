@@ -85,6 +85,10 @@ features:
       url: ''
   search:
     provider: wowchemy
+    docsearch:
+      app_id: ''
+      api_key: ''
+      index_name: ''
     algolia:
       app_id: ''
       api_key: ''
