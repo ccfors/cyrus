@@ -3,7 +3,13 @@
   <link
     rel="stylesheet"
     href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-  />  
+  />
+  <style>
+    body.dark{
+      --waline-bgcolor:rgb(26,32,44);
+      --waline-info-bgcolor:rgb(26,32,44);
+    }
+  </style>  
   <!-- ... -->
 </head>
 <body>
@@ -16,8 +22,9 @@
       el: '#waline',
       serverURL: 'https://www.ccfors.buzz',
       comment: true, // 评论数统计
-      dark: 'body.dark',
-      reaction: false,
+      dark: 'body.dark', //暗黑模式适配
+      reaction: false, //为文章增加表情互动功能
+      pageview: true, //文章浏览量统计
     });
   </script>
 </body>

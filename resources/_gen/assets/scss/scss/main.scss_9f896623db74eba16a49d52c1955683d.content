@@ -7547,7 +7547,7 @@ div.alert a {
  *  Page content
  **************************************************/
 .article-container {
-  max-width: 1000px;
+  max-width: 950px;
   padding: 0 20px;
   margin: 0 auto; }
 
@@ -9516,7 +9516,7 @@ a.hero-cta-alt:hover {
  *  Dark themed components
  **************************************************/
 .dark .article-title a {
-  color: #fff; }
+  color: rgba(248, 248, 242, 0.918); }
 
 .dark .pagination li > a,
 .pagination li > span {
@@ -9527,7 +9527,7 @@ body.dark,
 .dark .docs-toc-link,
 .dark .modal button.close,
 .dark input {
-  color: #f8f8f2;
+  color: rgba(248, 248, 242, 0.829);
   background: #1a202c; }
 
 .dark .form-control {
